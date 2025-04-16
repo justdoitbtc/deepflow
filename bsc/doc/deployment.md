@@ -21,8 +21,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-organization/DeepFlow.git
-cd DeepFlow
+git clone https://github.com/justdoitbtc/deepflow.git
+cd deepflow
 ```
 
 ## 后端部署
